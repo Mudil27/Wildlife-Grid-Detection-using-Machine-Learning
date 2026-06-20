@@ -140,6 +140,6 @@ Through this project, the following concepts were explored:
 
 ## Author
 
-Mudil Goel
-Electrical Engineering
+Mudil Goel, Arya Patil, Arnav Pandit, Khushi Kucheria <br>
+Electrical Engineering<br>
 IIT Bombay
